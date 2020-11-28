@@ -1,0 +1,41 @@
+body {
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+  margin: 0px auto;
+  width: 800px;
+  flex-wrap: wrap;
+}
+
+header {
+  width: 100%;
+  border: 2px solid #dcdcdc;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding-left: 20px;
+}
+
+article {
+    width: 650px;
+    border: 1px solid #dcdcdc;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 150px;
+    background: #003b8a;
+    border: 1px solid #dcdcdc;
+    box-sizing: border-box;
+}
+
+footer {
+    width: 100%;
+    border: 2px solid #dcdcdc;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 10px 20px;
+    text-align: right;
+}
