@@ -1,0 +1,12 @@
+.form-style {
+  display: block;
+  margin-bottom: 25px;
+}
+
+.input {
+  width: 100%;
+  padding: 5px;
+  font-size: 14px;
+  box-sizing: border-box;
+  margin-top: 5px;
+}
