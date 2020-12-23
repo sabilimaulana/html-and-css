@@ -31,6 +31,12 @@ article {
     box-sizing: border-box;
 }
 
+.sidebar ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
 .sidebar ul li a {
   color: white;
   text-decoration: none;
@@ -43,10 +49,8 @@ article {
   background: #0757c1;
 }
 
-.sidebar ul {
-  list-style: none;
-  margin: 0px;
-  padding: 0px;
+.sidebar ul li a.active{
+  background-color: #0606bf;
 }
 
 footer {
