@@ -17,7 +17,7 @@ header {
   padding-left: 20px;
 }
 
-article {
+.content {
     width: 650px;
     border: 1px solid #dcdcdc;
     padding: 40px;
